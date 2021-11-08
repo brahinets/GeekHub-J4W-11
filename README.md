@@ -1,7 +1,7 @@
 # GeekHub Java for Web Season 11
 
 |№|Topic|Date|
-|-|-|-|
+|---|---|---|
 |1|Intro| 2021-11-02|
 |2|Basics|2021-11-09|
 |3|Object-oriented Programming|2021-11-16|

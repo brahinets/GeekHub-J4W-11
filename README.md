@@ -10,7 +10,7 @@
 |6|Practice|2021-12-07|
 |7|Generics. Collections Framework|2021-12-14|
 |8|Gradle, DateTime API, Optional Class|2021-12-21|
-|9|CI/CD|?| 
+|9|CI|?| 
 |10|Functional Programming, Stream API|2022-01-11|
 |11|Input/Output|2022-01-18|
 |12|Reflection API|2022-01-25|
@@ -25,6 +25,7 @@
 |22|Spring Security p2|2022-04-21|
 |23|Concurrency|2022-04-26|
 |24|Integration Testing|2022-05-03|
-|25|Course works preview|2022-05-10|
-|26|Docker, Kubernetes|2022-05-17|
-|27|Course works review|2022-05-24|
+|25|CD|2022-05-06|
+|26|Course works preview|2022-05-10|
+|27|Docker, Kubernetes|2022-05-17|
+|28|Course works review|2022-05-24|

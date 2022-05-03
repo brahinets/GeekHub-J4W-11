@@ -28,6 +28,6 @@
 |25|CD/Bootstrap|2022-05-06|
 |26|Course works BE preview|2022-05-10|
 |27|Course works FE preview|2022-05-17|
-|28|Course works review|2022-05-24|
+|28|Course works review|2022-05-31|
 |29|Docker + Kubernetes|TBD|
 

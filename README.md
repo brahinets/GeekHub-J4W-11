@@ -25,7 +25,9 @@
 |22|Spring Security p2|2022-04-21|
 |23|Concurrency|2022-04-26|
 |24|Integration Testing|2022-05-03|
-|25|CD|2022-05-06|
-|26|Course works preview|2022-05-10|
-|27|Docker, Kubernetes|2022-05-17|
+|25|CD/Bootstrap|2022-05-06|
+|26|Course works BE preview|2022-05-10|
+|27|Course works FE preview|2022-05-17|
 |28|Course works review|2022-05-24|
+|29|Docker + Kubernetes|TBD|
+

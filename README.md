@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="600" height="220" src="https://github.com/brahinets/GeekHub-J4W-11/assets/4119411/a9e2eb3a-e690-4be8-8226-55787f46b377">   
+</p>
+
 > # Teaching is one of the best ways to keep learning
 
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/4119411/153082286-ee66eabe-7f14-48ed-8256-ad7cf4a8dd2f.png"> GeekHub

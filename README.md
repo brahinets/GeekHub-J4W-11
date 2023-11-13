@@ -16,6 +16,12 @@ Repository is dedicated to the eleventh season of open source volunteering educa
 The main course goal is to cover basic knowledge and skills required by still one of the hottest positions in the local job market as of 2021:  web development using <a href="https://www.java.com">Java</a> programming language. Once a week a new topic is presented to students, with homework, that in turn is reviewed by mentors and personal feedback is given to each student for improvements. The most common mistakes are reviewed with learners at the beginning of the next lesson. Starting from an overview of main core java features, continuing by <a href="https://spring.io">Spring Framework</a> and wrapping up by exploration of best development practices.
 </p>
 
+<img align="left" width="100" height="100" src="https://github.com/brahinets/GeekHub-J4W-11/assets/4119411/de66dbc0-320b-4f07-94f3-20f615ae626b"> Season 11
+------------
+<p align="justify">
+Eleventh season led by recent rookies, alumnus of Season 9 <a href="https://github.com/V-Nikolenko">Vladyslav Nikolenko</a>, <a href="https://github.com/cherniakb">Bohdan Cherniak</a> and <a href="https://github.com/volodymyr-Vedula">Volodymyr Vedula</a>. Two old-school mates <a href="https://github.com/brahinets">Yaroslav Brahinets</a> and <a href="https://github.com/vrudas">Vasya Rudas</a> assisted a bit. Extra kudos for one-lecture rock stars for particular topics. Group stared with sizing of 20 people in October 2021 and despite orks, sirens and alarms, successfully finished in May-June 2022 by honorable graduation and certification of 7 fantastic rookies.
+</p>
+
 <details>  
 <summary>Click to view the course program</summary>
 
